@@ -1,4 +1,4 @@
-# Flappy-Bird  :bird:
+# Flappy Bird  :bird:
 Just another clone
 
 ## Preview
